@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKPlanner", "SKPlanner\SKPl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKRag", "SKRag\SKRag.csproj", "{F43731EC-B9EB-4F62-BBAA-1829760BDECB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFilters", "SKFilters\SKFilters.csproj", "{882BC8B5-B0F7-47D7-8D15-3934655478AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F43731EC-B9EB-4F62-BBAA-1829760BDECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F43731EC-B9EB-4F62-BBAA-1829760BDECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F43731EC-B9EB-4F62-BBAA-1829760BDECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882BC8B5-B0F7-47D7-8D15-3934655478AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882BC8B5-B0F7-47D7-8D15-3934655478AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882BC8B5-B0F7-47D7-8D15-3934655478AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882BC8B5-B0F7-47D7-8D15-3934655478AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
